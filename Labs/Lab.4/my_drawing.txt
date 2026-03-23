@@ -1,0 +1,1 @@
+RasterDrawing(12, 12, [Rectangle(4, 2, 1, 1), Circle(2, 8, 8), Triangle(2, 8, 4, 11, 6, 8)])
